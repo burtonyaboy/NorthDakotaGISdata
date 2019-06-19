@@ -1,0 +1,5 @@
+https://prd-tnm.s3.amazonaws.com/StagedProducts/LndCvr/Shape/LNDCVR_North_Dakota_State_Shape.zip
+https://prd-tnm.s3.amazonaws.com/StagedProducts/LndCvr/Shape/LNDCVR_Montana_State_Shape.zip
+https://prd-tnm.s3.amazonaws.com/StagedProducts/LndCvr/Shape/LNDCVR_Minnesota_State_Shape.zip
+https://prd-tnm.s3.amazonaws.com/StagedProducts/LndCvr/Shape/LNDCVR_South_Dakota_State_Shape.zip
+

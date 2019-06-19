@@ -1,0 +1,6 @@
+https://prd-tnm.s3.amazonaws.com/StagedProducts/Small-scale/data/Elevation/elevaki0100a.tif_nt00829.tar.gz
+https://prd-tnm.s3.amazonaws.com/StagedProducts/Small-scale/data/Elevation/nateaki0100a.tif_nt00868.tar.gz
+https://prd-tnm.s3.amazonaws.com/StagedProducts/Small-scale/data/LandCover/impeaki0100a.tif_nt00833.tar.gz
+https://prd-tnm.s3.amazonaws.com/StagedProducts/Small-scale/data/LandCover/ldco48i0100a.tar.gz
+https://prd-tnm.s3.amazonaws.com/StagedProducts/Small-scale/data/Elevation/elslaki0100a.tif_nt00847.tar.gz
+

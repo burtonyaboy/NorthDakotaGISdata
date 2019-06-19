@@ -1,0 +1,5 @@
+https://geonames.usgs.gov/docs/stategaz/MT_Features.zip
+https://geonames.usgs.gov/docs/stategaz/ND_Features.zip
+https://geonames.usgs.gov/docs/stategaz/SD_Features.zip
+https://geonames.usgs.gov/docs/stategaz/MN_Features.zip
+
